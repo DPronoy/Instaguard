@@ -1,0 +1,11 @@
+streamlit
+playwright
+pandas
+torch
+transformers
+numpy
+tf-keras
+pillow
+instagrapi  
+accelerate
+scikit-learn
